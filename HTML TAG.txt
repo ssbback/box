@@ -1,0 +1,19 @@
+<br>띄어쓰기
+<p></p> 문단
+<p style="margin-top:45px;"> 위쪽 여백
+<strong></strong> 굵게
+<u></u> 밑줄
+<h1></h1> ~ <h5></h5> 글씨크기
+<img scr="" width="100%"> 이미지삽입, 이미지크기
+<li></li> 목록
+<ol></ol> 목록 자동 숫자
+<ul></ul> 목록 숫자x
+<body></body> 본문
+<title></title> 제목
+<meta charset="utf-8"> 한글인식
+<head></head> 서문?
+<html></html> 전체
+<!doctype html> 최상단 문구
+<a href="" target"blank" title=""></a> 링크, 새창으로 링크열기, 링크내용 미리보기(마우스클릭 전)
+
+
